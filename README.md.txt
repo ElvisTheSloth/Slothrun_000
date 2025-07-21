@@ -27,11 +27,8 @@ No external libraries required – it’s pure Python + tkinter.
 
  📸 Screenshot
 
-> *(You can add a screenshot of your app here later)*
+ ![App screenshot](screenshot.png)
 
-```
-[Insert Screenshot Here]
-```
 
 💡 Future Upgrades
 I plan to include he following upgrades:
@@ -50,7 +47,7 @@ Currently studying Computer Engineering + AI + Game Dev (Unity).A man can dream:
 
 
 🗂️ Related
-* [Console Version of Task List](https://github.com/YOUR_USERNAME/your_console_repo_link)
+* [Console Version of Task List](https://github.com/ElvisTheSloth/Slothrun_000.git)
 
 
 ⭐ If You Liked This...
