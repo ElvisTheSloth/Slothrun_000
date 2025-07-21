@@ -26,12 +26,8 @@ python task_list_gui.py
 No external libraries required – it’s pure Python + tkinter.
 
  📸 Screenshot
-
-> *(You can add a screenshot of your app here later)*
-
-```
-[Insert Screenshot Here]
-```
+ 
+![Task List GUI screenshot](screenshot.png)
 
 💡 Future Upgrades
 I plan to include he following upgrades:
