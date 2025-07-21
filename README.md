@@ -27,7 +27,7 @@ No external libraries required – it’s pure Python + tkinter.
 
  📸 Screenshot
 
- ![App screenshot](screenshot.png)
+ ![App screenshot](Screenshot%202025-07-21%20161345.png)
  
 💡 Future Upgrades
 I plan to include he following upgrades:
@@ -45,8 +45,12 @@ Leveling up one project at a time.
 Currently studying Computer Engineering + AI + Game Dev (Unity).A man can dream:)
 
 
-🗂️ Related
-* [Console Version of Task List](https://github.com/ElvisTheSloth/Slothrun_000.git)
+🗂️ VERSIONS
+
+- [Console Version](./console_version/task_planner_console.py)
+- [GUI Version](./gui_version/task_planner_gui.py)
+
+
 
 
 ⭐ If You Liked This...
