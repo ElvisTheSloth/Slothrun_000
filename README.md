@@ -28,8 +28,7 @@ No external libraries required – it’s pure Python + tkinter.
  📸 Screenshot
 
  ![App screenshot](screenshot.png)
-
-
+ 
 💡 Future Upgrades
 I plan to include he following upgrades:
 * Add custom app icon (e.g. Sloth Rocket 🚀)
